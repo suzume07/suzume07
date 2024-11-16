@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinh</h1>
-<h3 align="center">The long journey with mathematics has sparked my interest in the elds of Science and Robotics. Thus, I fully devote my avidity to the major Data Science with a view to doing wonders for the future of mankind.</h3>
+<h3 align="center">The long journey with mathematics has sparked my interest in the fields of Science and Robotics. Thus, I fully devote my avidity to the major Data Science with a view to doing wonders for the future of mankind.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzume07&label=Profile%20views&color=0e75b6&style=flat" alt="suzume07" /> </p>
 
